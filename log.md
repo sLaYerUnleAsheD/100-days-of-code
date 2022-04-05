@@ -13,4 +13,4 @@
 
 **Today's Progress**: Solved many questions on arrays, numpy and decision-making statements in Python and learned many different methods.(PS: I'm new to Python so starting with problems on basic concepts) 
 
-**Thoughts:** Yesterdays way of inserting expression in a string was very useful in solving sum problems and I had to research over print(f"") in python and some methods, so overall I learned many new things.
+**Thoughts:** Yesterdays way of inserting expression in a string was very useful in this language as well and I had to research over print(f"") in python and some methods, so overall I learned many new things.
