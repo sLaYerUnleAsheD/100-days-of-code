@@ -15,7 +15,7 @@
 
 **Thoughts:** Yesterdays way of inserting expression in a string was very useful in this language as well and I had to research over print(f"") in python and some methods, so overall I learned many new things.
 
-### Day 1: April 06, 2022 
+### Day 2: April 06, 2022 
 
 
 **Today's Progress**: Started making a small website for WHITEBEARD PIRATES (a pirate group from One Piece anime)
