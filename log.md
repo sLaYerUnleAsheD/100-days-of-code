@@ -21,3 +21,10 @@
 **Today's Progress**: Started making a small website for WHITEBEARD PIRATES (a pirate group from One Piece anime)
 
 **Thoughts:** Facing problems with aligning certain elements, but will surely figure it out soon!
+
+### Day 3: April 07, 2022 
+
+
+**Today's Progress**: Update! I continued to write code for my WHITEBEARD PIRATES website and after a lot of searching and trying codes, I finally figured out that how can I add a background Image in css and blur it and make my text appear over it.
+
+**Thoughts:** Felt good by progressing in the direction I want to :)
