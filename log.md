@@ -28,3 +28,10 @@
 **Today's Progress**: Update! I continued to write code for my WHITEBEARD PIRATES website and after a lot of searching and trying codes, I finally figured out that how can I add a background Image in css and blur it and make my text appear over it.
 
 **Thoughts:** Felt good by progressing in the direction I want to :)
+
+### Day 4: April 08, 2022 
+
+
+**Today's Progress**: Update! Today I applied the concept of positioning elements on the website in a good and solid manner.
+
+**Thoughts:** I think I took a lot of time in doing this but it will be worth it someday.
