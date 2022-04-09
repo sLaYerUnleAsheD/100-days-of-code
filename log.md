@@ -35,3 +35,10 @@
 **Today's Progress**: Update! Today I applied the concept of positioning elements on the website in a good and solid manner.
 
 **Thoughts:** I think I took a lot of time in doing this but it will be worth it someday.
+
+### Day 5: April 09, 2022 
+
+
+**Today's Progress**: Update! The home screen is ready with some Javascript animations on startup, I learned various css properties today as well :)
+
+**Thoughts:** I got late and its beyond 12AM but I guess as long as I'm doing 1 hr daily its fine. 
